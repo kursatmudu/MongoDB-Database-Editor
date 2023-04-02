@@ -2,7 +2,7 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MongoDBDatabaseEdit.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="COLUMN_NAME" Type="System.String" Scope="User">
+    <Setting Name="COLUMN_NAME" Type="System.String" Scope="Application">
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="CONNECTION_STRING" Type="(Connection string)" Scope="Application">
@@ -12,7 +12,7 @@
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)" />
     </Setting>
-    <Setting Name="DB_NAME" Type="System.String" Scope="User">
+    <Setting Name="DB_NAME" Type="System.String" Scope="Application">
       <Value Profile="(Default)" />
     </Setting>
   </Settings>

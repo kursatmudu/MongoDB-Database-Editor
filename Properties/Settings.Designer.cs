@@ -23,15 +23,12 @@ namespace MongoDBDatabaseEdit.Properties {
             }
         }
         
-        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string COLUMN_NAME {
             get {
                 return ((string)(this["COLUMN_NAME"]));
-            }
-            set {
-                this["COLUMN_NAME"] = value;
             }
         }
         
@@ -44,15 +41,12 @@ namespace MongoDBDatabaseEdit.Properties {
             }
         }
         
-        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string DB_NAME {
             get {
                 return ((string)(this["DB_NAME"]));
-            }
-            set {
-                this["DB_NAME"] = value;
             }
         }
     }
