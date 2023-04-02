@@ -40,9 +40,21 @@ Change variables
   
 ## Screenshots
 
+```bash
+Settings Location
+```
 ![Settings Location](https://raw.githubusercontent.com/kursatmudu/MongoDB-Database-Editor/main/img/1.JPG)
+```bash
+Add User Form
+```
 ![Add User](https://github.com/kursatmudu/MongoDB-Database-Editor/blob/main/img/2.JPG?raw=true)
-![Edit User](https://github.com/kursatmudu/MongoDB-Database-Editor/blob/main/img/3.JPG?raw=true)
+```bash
+Update User Form
+```
+![Update User](https://github.com/kursatmudu/MongoDB-Database-Editor/blob/main/img/3.JPG?raw=true)
+```bash
+Delete User Form
+```
 ![Delete User](https://github.com/kursatmudu/MongoDB-Database-Editor/blob/main/img/4.JPG?raw=true)
 
   
