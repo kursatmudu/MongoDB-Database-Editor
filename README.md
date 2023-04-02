@@ -37,9 +37,22 @@ Change variables
   Go to Project Solution > MongoDBDatabaseEdit right click > Properties > Settings and change variables.
 ```
 
+```bash
+  Columns that should be in the database:
+    1- _id: (Auto defined)
+    2- email
+    3- password
+    4- Cookies
+    5- completed
+```
+
   
 ## Screenshots
 
+```bash
+Database Column
+```
+![Database Column](https://raw.githubusercontent.com/kursatmudu/MongoDB-Database-Editor/main/img/5.JPG)
 ```bash
 Settings Location
 ```
